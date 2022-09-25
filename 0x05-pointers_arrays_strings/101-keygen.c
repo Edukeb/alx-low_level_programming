@@ -21,6 +21,7 @@ int main (void)
 		{
 			break;
 		}
+
 		j += i;
 		printf("%c", i);
 	}
